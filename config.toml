@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "/"
-languageCode = "en-us"
-title = "Okkur - Syna"
+languageCode = "fr-fr"
+title = "Unis pour Preuilly"
 theme = "syna"
 enableGitInfo = true
 version = "0.16.1"
@@ -22,8 +22,8 @@ lastmod = ["lastmod", ":git", "date"]
      unsafe = true
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "Benjamin JALON"
+  description = "Unis pour Preuilly"
 
   [params.style]
     #background = "secondary"
@@ -65,34 +65,39 @@ lastmod = ["lastmod", ":git", "date"]
 # configurable.
 [[menu.main]]
   url = "/"
-  name = "Home"
+  name = "Accueil"
   weight = 10
 
 [[menu.main]]
-  url = "/about"
-  name = "About Us"
+  url = "/liste"
+  name = "Notre liste"
+  weight = 20
+
+[[menu.main]]
+  url = "/programme"
+  name = "Notre programme"
   weight = 20
 
 [[menu.main]]
   url = "#contact"
   name = "Contact"
   weight = 30
-
-[[menu.footer]]
-  url = "#"
-  name = "Link"
-  weight = 10
-
-[[menu.footer]]
-  url = "#"
-  name = "Long Link"
-  weight = 30
-
-[[menu.footer]]
-  url = "#"
-  name = "Tiny Link"
-  weight = 30
-
+#
+#[[menu.footer]]
+#  url = "#"
+#  name = "Link"
+#  weight = 10
+#
+#[[menu.footer]]
+#  url = "#"
+#  name = "Long Link"
+#  weight = 30
+#
+#[[menu.footer]]
+#  url = "#"
+#  name = "Tiny Link"
+#  weight = 30
+#
 [[menu.copyright_footer]]
   url = "/about"
   name = "About Us"
@@ -107,10 +112,4 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 20
   name = "facebook"
   pre = "fab fa-facebook-f"
-  url = "#"
-
-[[menu.footer_social]]
-  weight = 30
-  name = "linkedin"
-  pre = "fab fa-linkedin-in"
-  url = "#"
+  url = "http://www.facebook.com"
