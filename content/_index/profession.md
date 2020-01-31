@@ -11,7 +11,7 @@ Les membres de notre équipe sont **unis** par leur passion pour **Preuilly-sur-
 
 Pour chacun de nous, s’engager dans l’action municipale est une démarche forte.
 
-Notre conviction commune est que Preuilly-sur-Claise est un joyau (ou bijou) en Sud Touraine : son histoire atypique et glorieuse, son tissu associatif actuel, ses infrastructures dignes d’une plus grande agglomération et son cadre de vie calme et serein sont autant d’atouts qui nous ont donné envie de nous impliquer ensemble pour le succès futur de Preuilly.
+Notre conviction commune est que Preuilly-sur-Claise est un joyau en Sud Touraine : son histoire atypique et glorieuse, son tissu associatif actuel, ses infrastructures dignes d’une grande agglomération et son cadre de vie calme et serein sont autant d’atouts qui nous ont donné envie de nous impliquer ensemble pour le succès futur de Preuilly.
 
 Chaque candidat - tout comme vous - a le bénéfice de ce qui est mis à sa disposition par la communauté et le restitue en participant à la vie locale (associations, événements, …). Nous présenter aux municipales, c’est poursuivre cette démarche.
 
