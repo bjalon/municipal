@@ -5,7 +5,7 @@ weight = 100
   sticky = true
 +++
 
-<img src="photo.png" alt="" class="img-fluid rounded-circle border text-white">
+<img src="photo.jpg" alt="" class="img-fluid rounded-circle border text-white">
 
 J'ai grandi à Preuilly-la-ville, mais c'est le charme et les attraits de Preuilly-sur-Claise, où ma mère a enseigné pendant une dizaine d'années, qui m'ont incité à m'y établir en 2017.
 

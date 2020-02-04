@@ -7,7 +7,7 @@ weight = 100
 
 +++
 
-<img src="photo.png" alt="" class="img-fluid rounded-circle border text-white">
+<img src="photo.jpg" alt="" class="img-fluid rounded-circle border text-white">
 
 Je suis professeur de finance dans l’enseignement supérieur après une carrière en entreprise. Je conseille aussi des entreprises en croissance.
 

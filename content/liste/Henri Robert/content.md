@@ -5,7 +5,7 @@ weight = 100
   sticky = true
 +++
 
-<img src="photo.png" alt="" class="img-fluid rounded-circle border text-white">
+<img src="photo.jpg" alt="" class="img-fluid rounded-circle border text-white">
 
 J'ai 70 ans, agriculteur-retraité, marié avec trois enfants, je suis élu depuis 12 ans - 6 ans à Charnizay et 6 ans à PREUILLY sur CLAISE, conseiller communautaire pendant 9 ans jusqu'à la fusion pour former LOCHES SUD TOURAINE. 
 

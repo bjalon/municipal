@@ -5,14 +5,12 @@ weight = 100
   sticky = true
 +++
 
-<img src="photo.png" alt="" class="img-fluid rounded-circle border text-white">
+<img src="photo.jpg" alt="" class="img-fluid rounded-circle border text-white">
 
-33 ans ėleveuse de chèvres et de brebis.
-
-J'ai vécu et grandi à Preuilly sur claise.
+33 ans ėleveuse de chèvres et de brebis, j'ai vécu et grandi à Preuilly sur claise.
 
 Je suis partie pour mes études et j'ai vécu à l'étranger quelques années. De retour en France m'installer sur la commune pour reprendre l'exploitation familiale fût pour moi et mon mari une évidence.
 
-Depuis 2015 j'y construit ma vie professionnelle et familiale dans un cadre magnifique et plein de potentiel.
+Depuis 2015, j'y construis ma vie professionnelle et familiale dans un cadre magnifique et plein de potentiel.
 
 C'est pourquoi j'ai décidé de m'investir pour Preuilly à travers ces élections pour développer la dynamique de la commune.

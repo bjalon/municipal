@@ -5,7 +5,7 @@ weight = 100
   sticky = true
 +++
 
-<img src="photo.png" alt="" class="img-fluid rounded-circle border text-white">
+<img src="photo.jpg" alt="" class="img-fluid rounded-circle border text-white">
 
 Retraitée du secteur Médical privé.
 

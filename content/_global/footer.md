@@ -16,4 +16,4 @@ weight = 1200
 
 #### Unis pour Preuilly
 
-Notre ville est trop importante, c'est pourquoi nous avons cherché à rassembler autant qu'il a été possible. Nous allons chercher à construire ensemble pour la réussite de Preuilly.
+Nous avons rassemblé autant qu'il a été possible pour construire la réussite de Preuilly, l'intérêt général prime !
