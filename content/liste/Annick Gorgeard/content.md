@@ -13,7 +13,7 @@ J'ai travaillé 7 ans en tant que secrétaire dans une société de charbonnage 
 
 Après un premier mandat, j'ai envie de poursuivre mon engagement afin d'améliorer mes connaissances sur la commune et participer aux diverses manifestations.
 
-Mon engagement est de mettre l'intérêt en avant, faire le mieux possible en travaux d'investissement pour dynamiser la commune et faire vivre Preuilly.
+Mon engagement est de mettre l'intérêt général en avant, faire le mieux possible en travaux d'investissement pour dynamiser la commune et faire vivre Preuilly.
 
 Cela suppose une gestion serrée des dépenses de fonctionnement en raison des moyens limités du budget communal.
 

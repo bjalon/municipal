@@ -15,10 +15,10 @@ J'ai étudié l'horticulture et l'aménagement du paysage, travaillé au quatre 
 
 J'ai été responsable espaces verts dans un parc parisien pendant 16 ans.
 
-Ma compagne et moi-même sommes propriétaires depuis 2007 d'une résidence secondaire rue des Pavillons à Preuilly-sur-Claise et avons décidé de nous y installer définitivement en 2018.
+Ma compagne et moi-même sommes propriétaires depuis 2007 d'une résidence secondaire, rue des Pavillons à Preuilly-sur-Claise, et avons décidé de nous y installer définitivement en 2018.
 
-Actuellement je travaille à Obterre comme charpentier.
+Actuellement, je travaille à Obterre comme charpentier.
 
 Ma compagne espère prochainement me rejoindre.
 
-Je souhaite m'investir dans notre beau village qui représente un fort potentiel. 
+Je souhaite m'investir dans notre beau village qui présente un fort potentiel. 

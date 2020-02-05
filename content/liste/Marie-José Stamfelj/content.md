@@ -7,14 +7,10 @@ weight = 100
 
 <img src="photo.jpg" alt="" class="img-fluid rounded-circle border text-white">
 
-Retraitée du secteur Médical privé.
-
-Native des Hauts de France, nous sommes arrivés à Preuilly sur Claise, il y a
+Native des Hauts de France et retraitée du secteur Médical privé, nous sommes arrivés à Preuilly sur Claise, il y a
 10 ans où nous vivons pleinement notre retraite.
 
-Nous avons été très sensibles par l'accueil chaleureux des habitants.
+Nous avons été très sensibles à l'accueil chaleureux des habitants.
 
-Très vite je me suis investie dans ma commune.
-
-Adjointe depuis 6 ans, l'envie de continuer à m'investir, communiquer, proche
-des habitants répondre à leurs attentes.
+Très vite investie dans ma commune, je suis aujourd'hui adjointe depuis 6 ans avec l'envie de continuer à m'investir, 
+communiquer et rester proche des habitants afin de répondre à leurs attentes.

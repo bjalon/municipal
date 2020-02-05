@@ -15,4 +15,4 @@ Originaire du Lochois, j'ai déménagé plusieurs fois avant de retrouver ma Tou
 
 Je réside à Preuilly sur Claise, village que j'affectionne particulièrement et qui offre à moi et ma famille le cadre idéal depuis 13 ans.
 
-Je m'engage car je suis dans la même dynamique que mes colistiers et j'aimerai offrir à travers mon expertise notamment de la santé tous les atouts pour continuer à faire de Preuilly un lieu si particulier.
+Je m'engage car je suis dans la même dynamique que mes colistiers et je veux offrir à travers mon expertise notamment de la santé tous les atouts pour continuer à faire de Preuilly un lieu si particulier.

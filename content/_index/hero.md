@@ -2,13 +2,11 @@
 fragment = "hero"
 weight = 50
 background = "light" # can influence the text color
-particles = true
 
-title = "Municipales 2020"
+minHeight = "calc(10vw - 56px)"
 
 [header]
   image = "preuilly.jpg"
-  height = "300px" # optional - will default to image height
 
 [[buttons]]
   text = "Nous rencontrer"
