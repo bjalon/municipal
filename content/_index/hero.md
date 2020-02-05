@@ -9,7 +9,7 @@ minHeight = "calc(10vw - 56px)"
   image = "preuilly.jpg"
 
 [[buttons]]
-  text = "Nous rencontrer"
+  text = "Parlons-nous"
   url = "#contact"
   color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 +++

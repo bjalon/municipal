@@ -6,8 +6,8 @@ weight = 1100
 #background = "light"
 form_name = "defaultContact"
 
-title = "Nous rencontrer"
-subtitle  = "Nous sommes à votre écoute, rencontrons-nous !"
+title = "Parlons-nous"
+subtitle  = "Nous sommes à votre écoute"
 
 post_url = "https://example.com/mailout" #default: formspree.io
 email = "bjalon@qastia.com"
