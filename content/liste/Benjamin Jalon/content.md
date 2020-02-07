@@ -7,11 +7,9 @@ weight = 100
 
 <img src="photo.jpg" alt="" class="img-fluid rounded-circle border text-white">
 
-Expert dans les technologies, je travaille actuellement pour le Ministère de la Défense : Je participe notamment au développement d'un logiciel déployé dans le monde et utilisé par les Forces Spéciales françaises. Mon activité m'amène également à aider les petites, moyenne et grandes entreprises (Enedis, Société générale, MMA, ...) à trouver des solutions innovantes pour améliorer leur fonctionnement quotidien. Et pour cela, mon expérience parle mieux que mes diplômes.
+Expert dans les technologies, je travaille actuellement pour le Ministère de la Défense.
 
-Arrivé à Preuilly par les hasards des mutations de ma femme, Principale du réseau des collèges, nous avons depuis été pris d'un réel amour pour notre merveilleuse ville.
-
-Totalement intégrés ma famille et moi, nous nous sommes investis petit à petit dans la communauté, grâce notamment :
+Arrivés en 2018 et totalement intégrés ma famille et moi, nous nous sommes investis petit à petit dans la communauté, grâce notamment :
 * aux rencontres que nous avons eues,
 * à toutes les associations proposant tant d'activités,
 * mais aussi la municipalité actuelle.
