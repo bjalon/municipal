@@ -10,4 +10,6 @@ display_date = false
 summary = false
 collapsible = true
 count = 100
+sort = "Weight" # Default is PublishDate
+sort_order = "desc" # Default is asc
 +++

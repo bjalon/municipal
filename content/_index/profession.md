@@ -25,5 +25,5 @@ Soyons **Unis pour Preuilly** !
 
 Avant de présenter notre programme, nous tenons à donner la parole à chaque membre de notre liste : [cliquez ici](/liste).
 
-Vous retrouverez notre programme [en cliquant ici](/programme).
+Vous retrouverez notre programme [en cliquant ici](/programme//01_introduction).
 
