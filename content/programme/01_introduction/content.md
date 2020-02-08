@@ -3,6 +3,27 @@ fragment = "content"
 weight = 100
 +++
 
+Des différents contacts formels et informels avec nos concitoyens, comme avec les acteurs de terrain il se confirme 
+clairement une attente forte à voir progresser Preuilly.
+
+C’est donc avec réalisme, sans jugement sur le passé, avec circonspection, mais surtout avec imagination et volontarisme 
+que nous sommes engagés dans ce projet municipal. Ainsi notre programme s’écarte-t-il de vaines promesses électoralistes, 
+de listes à la Prévert, pour se concentrer sur les réels besoins :
+* Ceux déjà connus, qui continueront à être traités, mais avec un plus grand souci constant d’optimisation,
+* Tout comme ceux qui apparaîtront et/ou qui nous seront dévolus.
+
+Engager, réengager notre commune plus encore vers l’avenir, en continuité avec son passé, le renouvelant par des axes nouveaux :
+* Écologie / Environnement,
+* Inter-générationnel,
+* Social,
+* Respect du patrimoine,
+
+très prometteurs et effectivement à notre portée.
+
+Et cela dans le respect de l’identité de notre village, son bien-vivre, plus étroitement avec les autres instances 
+(Communauté de Communes, Département, Région…) pour faire reconnaître nos besoins et notre spécificité, et notamment en 
+recherchant les appuis, financements et aides appropriées à nos démarches.
+
 ## Qualité de vie
 
 Notre cadre de vie remarquable mérite d’être encore mieux mis en valeur avec des investissements dans l’entretien de la voirie et la signalétique. Nous nous attacherons aussi à plus systématiquement embellir et fleurir nos espaces publics et porterons une attention renforcée à la propreté.
