@@ -18,6 +18,7 @@ particulier pour le sud du département, sans doute, attrait du sud pour des tra
 "au pieds des banquises" (petit clin d’œil à bienvenue chez les ch’tis....).
 
 Preuilly nous séduisait particulièrement pour :
+
 * un aspect de petite ville, avec un patrimoine immobilier attrayant, 
 * des services et commerces encore préservés,
 * une sensation de bien vivre…
@@ -26,8 +27,8 @@ Le moment venu, lors de nos recherches, après maintes visites de biens immobili
 Bien accueillis, très vite intégrés, invités à nous investir dans de nombreuses activités, nous y avons trouvé fort agréablement notre place.
 
 Aussi j’estime que m’investir dans la gestion municipale n’est qu’une juste réciprocité : 
-•	mettre mes acquis du passé au service de la collectivité,  
-•	pour d’avantage participer à la vie de cette jolie commune, 
-•	et ainsi, contribuer à mieux y vivre, 
+* mettre mes acquis du passé au service de la collectivité,  
+* pour d’avantage participer à la vie de cette jolie commune, 
+* et ainsi, contribuer à mieux y vivre, 
 sera une bonne façon de restituer ce que je reçois.
 
