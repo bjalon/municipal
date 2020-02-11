@@ -3,8 +3,8 @@ fragment = "content"
 weight = 100
 +++
 
-Des différents contacts formels et informels avec nos concitoyens, comme avec les acteurs de terrain il se confirme 
-clairement une attente forte à voir progresser Preuilly.
+A travers les discussions avec nos concitoyens, comme avec les acteurs de terrain, s'est confirmée une attente forte 
+de voir Preuilly progresser.
 
 C’est donc avec réalisme, sans jugement sur le passé, avec circonspection, mais surtout avec imagination et volontarisme 
 que nous sommes engagés dans ce projet municipal. Ainsi notre programme s’écarte-t-il de vaines promesses électoralistes, 
@@ -28,22 +28,22 @@ recherchant les appuis, financements et aides appropriées à nos démarches.
 
 TODO : Mot de couverture court
 
-[Quels actions](../02_qualite)
+[Quelles actions](../02_qualite)
 
 # Urbanisme du coeur de ville
 
 TODO : Mot de couverture court
 
-[Quels actions](../03_urbanisme)
+[Quelles actions](../03_urbanisme)
 
 # Attractivité économique et touristique
 
 TODO : Mot de couverture court 
 
-[Quels actions](../04_economie)
+[Quelles actions](../04_economie)
 
 # Ambition environnementale
 
 TODO : Mot de couverture court
 
-[Quels actions](../05_environnement)
+[Quelles actions](../05_environnement)
