@@ -10,7 +10,7 @@ weight = 100
 Enfant du pays, notre nom résonne depuis plus de 5 générations dans la région à travers notamment l'entreprise 
 familiale de couverture transmise de père em fils.
 
-Actif dans la vie de Preuilly à travers mes engagements dans le commité des fêtes, ma présidence de la MCJ à une période
+Actif dans la vie de Preuilly à travers mes engagements dans le comité des fêtes, ma présidence de la MCJ à une période
 où elle a failli être dissoute, j'aime aider et transmettre. 
 
 C'est pourquoi je me suis engagé en tant que pompier volontaire, puis je me suis chargé des recrutements de jeunes 
