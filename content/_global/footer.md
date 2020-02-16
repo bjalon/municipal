@@ -16,4 +16,4 @@ weight = 1200
 
 #### Unis pour Preuilly
 
-Nous avons rassemblé autant qu'il a été possible pour construire la réussite de Preuilly, l'intérêt général prime !
+l'intérêt général prime !
