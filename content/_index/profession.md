@@ -23,7 +23,7 @@ C’est ainsi que notre programme sera vôtre et son contenu sera la synthèse d
 
 Soyons **Unis pour Preuilly** !
 
-Avant de présenter notre programme, nous tenons à donner la parole à chaque membre de notre liste : [cliquez ici](/liste).
+Avant de présenter notre programme, nous tenons à donner la parole à chaque membre de notre liste : [cliquez ici](/liste#inside).
 
 Vous retrouverez notre programme [en cliquant ici](/programme).
 
