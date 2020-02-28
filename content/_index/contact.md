@@ -9,7 +9,7 @@ form_name = "defaultContact"
 title = "Parlons-nous"
 subtitle  = "Nous sommes à votre écoute. <br> <br> <small>Our English-speaking friends are welcome to communicate in English.</small>"
 
-post_url = "https://example.com/mailout" #default: formspree.io
+post_url = "https://formspree.io/mlenlwrw" #default: formspree.io
 email = "bjalon@qastia.com"
 button = "Envoyer" # defaults to theme default
 #netlify = false
@@ -47,4 +47,8 @@ button = "Envoyer" # defaults to theme default
 [[fields.hidden]]
   name = "someID"
   value = "unis.preuilly.com"
+
+[[fields.hidden]]
+  name = "_next"
+  value = "http://www.preuilly.net/merci"
 +++
