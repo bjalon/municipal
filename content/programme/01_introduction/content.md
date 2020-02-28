@@ -21,24 +21,50 @@ Nos actions s’inscriront dans la continuité du travail de fond des précéden
 
 # Qualité de vie
 
-TODO : Mot de couverture court
+Notre cadre de vie remarquable mérite d’être encore mieux mis en valeur avec des investissements dans l’entretien de la voirie et la signalétique. Nous nous attacherons aussi à plus systématiquement embellir et fleurir nos espaces publics et porterons une attention renforcée à la propreté. Nous veillerons à la préservation d’un service de santé de proximité en facilitant l’installation des professionnels Le dynamisme des associations en place sera encouragé avec les moyens de la commune pour multiplier les moments de partage et de transmission.
 
-[Quelles actions](../02_qualite)
+* Favoriser les services de proximité
+* Répondre aux attentes du grand âge
+* Encourager les projets associatifs
+* Préserver un service de santé local
+* Créer un conseil municipal des jeunes
+* Apporter à nos écoles soutien matériel et écoute attentive
 
 # Urbanisme du coeur de ville
+Nous ouvrirons une reflexion ambitieuse pour préparer l’avenir de notre cadre de vie en coeur de ville. Nous avons la 
+chance qu’une offre commerciale de proximité de qualité se développe mais constatons aussi que l’urbanisme historique 
+et le plan de circulation peuvent être des freins. L’enjeu principal devra concilier dynamisme commercial avec qualité 
+de vie (stationnement et priorité aux piétons, accessibilité à tous y compris résidents des communes voisines, 
+attractivité touristique) ce qui passe par une approche innovante dans différents domaines : plan de circulation des 
+poids lourds, rôle de la commune en soutien des commerçants, nature et calendrier de nos marchés, etc.
 
-TODO : Mot de couverture court
-
-[Quelles actions](../03_urbanisme)
+* Fleurir et embellir
+* Responsabiliser chacun sur la propreté de la ville
+* Repenser la circulation et la vitesse
+* Faciliter la mobilité notamment dans le cœur de ville
+* Engager une réflexion sur le patrimoine immobilier
 
 # Attractivité économique et touristique
 
-TODO : Mot de couverture court 
+La culture d’entrepreneuriat de notre communauté avec ses nombreux artisans agriculteurs et commerçants devrait inspirer plus d'initiatives de créations d’activité. En particulier nous promouvrons notre cadre de vie et nos infrastructures pour attirer des entrepreneurs du digital et des télétravalleurs.
+Dans le domaine touristique, Preuilly mérite de voir ses spécificités reconnues : nous solliciterons un label promotionnel notamment en adoptant un programme pluri-annuel de mise en valeur de notre patrimoine architectural.
+Nous mettrons en place un nouveau site pour relayer ces efforts et mieux faire connaître nos atouts économiques et touristiques.
+Nous installerons une signalétique pour mieux accueillir les visiteurs et aussi simplifier la vie des résidents.
 
-[Quelles actions](../04_economie)
+* Soutenir les commerçants et les artisans
+* Promouvoir le potentiel de la zone du Rond
+* Attirer des acteurs du monde digital
+* Tirer partie des opportunités offertes par la Voie Verte
+* Obtenir un label touristique
+* Repenser la communication municipale - site, signalétiques, publications, référencement
 
 # Ambition environnementale
 
-TODO : Mot de couverture court
+La protection de l'environnement est devenue un enjeu majeur de l'action publique, nous y sommes tous sensibles.
+Nous accélérerons la transition énergétique initiée par les équipes précédentes pour les besoins des équipements publics (salle des fêtes en particulier).
 
-[Quelles actions](../05_environnement)
+
+* Favoriser les circuits courts - alimentaire et services
+* Poursuivre la transition énergétique des équipements publics
+* Encourager les bonnes pratiques environnementales - tri, économies d’énergie, réduction de la pollution, compostage
+* Organiser le covoiturage local
