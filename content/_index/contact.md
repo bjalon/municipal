@@ -7,7 +7,7 @@ weight = 1100
 form_name = "defaultContact"
 
 title = "Parlons-nous"
-subtitle  = "Nous sommes à votre écoute"
+subtitle  = "Nous sommes à votre écoute. <br> <br> <small>Our English-speaking friends are welcome to communicate in English.</small>"
 
 post_url = "https://example.com/mailout" #default: formspree.io
 email = "bjalon@qastia.com"
