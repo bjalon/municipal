@@ -1,8 +1,10 @@
 +++
+title = "Notre Programme"
 fragment = "content"
 weight = 100
 +++
-
+<br>
+<br>
 Nos discussions avec vous et les autres acteurs de terrain font ressortir une attente forte et des opportunités réelles pour Preuilly.
 C’est avec un réalisme conjugué d’imagination et de volontarisme que nous sommes engagés dans ce projet municipal. Ainsi notre programme s’écarte des longues listes de vaines promesses pour se concentrer sur les réels besoins :
 
