@@ -7,7 +7,7 @@ enableGitInfo = true
 version = "0.16.1"
 
 # Google Analytics tracking
-googleAnalytics = ""
+googleAnalytics = "UA-128691441-4"
 
 [outputs]
   home = ["HTML", "JSON"]
