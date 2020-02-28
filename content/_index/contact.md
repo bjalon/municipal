@@ -27,10 +27,6 @@ button = "Envoyer" # defaults to theme default
   text = "Votre nom *"
   error = "Entrez votre nom et prénom" # defaults to theme default
 
-[fields.email]
-  text = "Votre Email *"
-  error = "Entrer votre adresse email" # defaults to theme default
-
 [fields.phone]
   text = "Votre téléphone *"
   error = "Entrez votre téléphone" # defaults to theme default
