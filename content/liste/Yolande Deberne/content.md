@@ -7,7 +7,7 @@ weight = 100
 
 <img src="photo.jpg" alt="" class="img-fluid rounded-circle border text-white">
 
-Yolande Deberne grand-mère de quatre grands enfants, et de cinq petits enfants.
+Yolande Deberne mère de quatre grands enfants et grand-mère de cinq petits enfants.
 
 Retraitée de l'Éducation Nationale, professeure des écoles (IUFM St Germain en Laye) diplômée de l'Université de Paris X (master 1 sciences de l'éducation).
 
