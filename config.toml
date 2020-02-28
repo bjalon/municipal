@@ -107,9 +107,3 @@ lastmod = ["lastmod", ":git", "date"]
   url = "#"
   name = "Another Link"
   weight = 30
-
-[[menu.footer_social]]
-  weight = 20
-  name = "facebook"
-  pre = "fab fa-facebook-f"
-  url = "http://www.facebook.com"
