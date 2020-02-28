@@ -16,4 +16,4 @@ weight = 1200
 
 #### Unis pour Preuilly
 
-l'intérêt général prime !
+L'intérêt général prime !
