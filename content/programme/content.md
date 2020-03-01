@@ -23,7 +23,7 @@ Nos actions s’inscriront dans la continuité du travail de fond des précéden
 
 # Qualité de vie
 
-Notre cadre de vie remarquable mérite d’être encore mieux mis en valeur avec des investissements dans l’entretien de la voirie et la signalétique. Nous nous attacherons aussi à plus systématiquement embellir et fleurir nos espaces publics et porterons une attention renforcée à la propreté. Nous veillerons à la préservation d’un service de santé de proximité en facilitant l’installation des professionnels Le dynamisme des associations en place sera encouragé avec les moyens de la commune pour multiplier les moments de partage et de transmission.
+Notre cadre de vie remarquable mérite d’être encore mieux mis en valeur avec des investissements dans l’entretien de la voirie et la signalétique. Nous nous attacherons aussi à plus systématiquement embellir et fleurir nos espaces publics et porterons une attention renforcée à la propreté. Nous veillerons à la préservation d’un service de santé de proximité en facilitant l’installation des professionnels. Le dynamisme des associations en place sera encouragé avec les moyens de la commune pour multiplier les moments de partage et de transmission.
 
 * Favoriser les services de proximité
 * Répondre aux attentes du grand âge

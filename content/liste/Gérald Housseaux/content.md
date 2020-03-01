@@ -8,7 +8,7 @@ weight = 100
 <img src="photo.jpg" alt="" class="img-fluid rounded-circle border text-white">
 
 Retraité, ancien directeur comptable et financier d’une institution nationale parapublique, ancien chef d’entreprise 
-(PME) dans les domaines informatique et de l’environnement. 
+(PME) dans les domaines de l'informatique et de l’environnement. 
 
 Mon épouse Françoise et moi, nous avions l’habitude de passer nos vacances en famille en Indre et Loire, que nous 
 visitions en tous sens.
