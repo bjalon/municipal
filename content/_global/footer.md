@@ -14,6 +14,6 @@ weight = 1200
 #   url = "#"
 +++
 
-#### Unis pour Preuilly
+<img height="60px" src="/images/logo.png"/>
 
-L'intérêt général prime !
+## L'intérêt général prime !
