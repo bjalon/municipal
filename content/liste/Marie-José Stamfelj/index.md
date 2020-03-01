@@ -1,4 +1,4 @@
 +++
 title = "Marie-José Stamfelj"
-weight = 70
+weight = 2
 +++

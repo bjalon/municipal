@@ -1,4 +1,4 @@
 +++
 title = "Jean-François Véron"
-weight = 70
+weight = 11
 +++

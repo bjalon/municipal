@@ -1,4 +1,4 @@
 +++
 title = "Philippe Moreau"
-weight = 70
+weight = 17
 +++

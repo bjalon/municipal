@@ -1,4 +1,4 @@
 +++
 title = "Annick Gorgeard"
-weight = 70
+weight = 16
 +++

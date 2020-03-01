@@ -1,4 +1,4 @@
 +++
 title = "Gérard Thoreau"
-weight = 70
+weight = 3
 +++

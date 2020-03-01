@@ -1,4 +1,4 @@
 +++
 title = "Bruno Bernard"
-weight = 70
+weight = 7
 +++
