@@ -69,19 +69,31 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 10
 
 [[menu.main]]
+  url = "/blog"
+  name = "Informations"
+  weight = 20
+
+[[menu.main]]
   url = "/liste#inside"
   name = "Notre liste"
-  weight = 20
+  weight = 30
 
 [[menu.main]]
   url = "/programme"
   name = "Notre programme"
-  weight = 20
+  weight = 40
 
 [[menu.main]]
   url = "#contact"
   name = "Contact"
-  weight = 30
+  weight = 50
+
+[[menu.main]]
+  url = "/search"
+  name = "Rechercher"
+  weight = 60
+  pre = "fab fa-github fa-stack-2x"
+
 
 [[menu.footer]]
   url = "/liste#inside"

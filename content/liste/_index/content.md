@@ -6,8 +6,6 @@ weight = 100
   sticky = true
 +++
 
-<span id="inside"/>
-
 Afin de mieux nous connaître et de comprendre ce qui nous motive, nous vous proposons de cliquer sur les noms des 
 candidats en bleu.
 
