@@ -6,4 +6,4 @@ weight = 100
   sticky = true
 +++
 
-Vos conseillers municipaux sont à votre écoute
+Votre équipe municipale à votre écoute

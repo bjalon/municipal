@@ -12,7 +12,7 @@ display_date = true
 date = "2020-03-18"
 
 summary = """
-Le cabinet dentiare est fermé durant la période de confinement et un numéro d'urgence est disponible
+Le cabinet dentaire est fermé durant la période de confinement et un numéro d'urgence est disponible
 """
     
 [sidebar]

@@ -6,8 +6,8 @@ weight = 1100
 #background = "light"
 form_name = "defaultContact"
 
-title = "Parlons-nous"
-subtitle  = "Nous sommes à votre écoute. <br> <br> <small>Our English-speaking friends are welcome to communicate in English.</small>"
+title = "Contactez-nous"
+subtitle  = "Nous sommes à votre écoute"
 
 post_url = "https://formspree.io/mlenlwrw" #default: formspree.io
 email = "bjalon@qastia.com"
@@ -19,7 +19,7 @@ button = "Envoyer" # defaults to theme default
 #  sitekey = ""
 
 [message]
-  success = "Merci pour votre aide et commentaire" # defaults to theme default
+  success = "Merci pour votre aide et commentaires" # defaults to theme default
     error = "Une erreur s'est produite" # defaults to theme default
 
 # Only defined fields are shown in contact form
@@ -42,9 +42,9 @@ button = "Envoyer" # defaults to theme default
 
 [[fields.hidden]]
   name = "someID"
-  value = "unis.preuilly.com"
+  value = "www.preuillysurclaise.fr"
 
 [[fields.hidden]]
   name = "_next"
-  value = "http://www.preuilly.net/merci"
+  value = "http://www.preuillysurclaise.fr/merci"
 +++

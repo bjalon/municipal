@@ -4,6 +4,6 @@ weight = 50
 background = "light" # can influence the text color
 
 [header]
-  image = "groupe.jpg"
+  image = "preuilly.jpg"
 
 +++

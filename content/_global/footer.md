@@ -14,6 +14,6 @@ weight = 1200
 #   url = "#"
 +++
 
-<img height="60px" src="/images/logo.svg"/>
+<img height="60px" src="/images/logo2.jpg"/>
 
-## L'intérêt général prime !
+## Vaincre ensemble !

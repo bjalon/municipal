@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "/"
 languageCode = "fr-fr"
-title = "Unis pour Preuilly"
+title = "Preuilly sur Claise"
 theme = "syna"
 enableGitInfo = true
 version = "0.16.1"
@@ -23,7 +23,7 @@ lastmod = ["lastmod", ":git", "date"]
 
 [params]
   name = "Benjamin JALON"
-  description = "Unis pour Preuilly"
+  description = "Preuilly sur Claise"
 
   [params.style]
     #background = "secondary"
@@ -74,14 +74,9 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 20
 
 [[menu.main]]
-  url = "/liste#inside"
-  name = "Notre liste"
-  weight = 30
-
-[[menu.main]]
-  url = "/programme"
-  name = "Notre programme"
-  weight = 40
+  url = "/member"
+  name = "Notre équipe"
+  weight = 25
 
 [[menu.main]]
   url = "#contact"
@@ -96,19 +91,19 @@ lastmod = ["lastmod", ":git", "date"]
 
 
 [[menu.footer]]
-  url = "/liste#inside"
-  name = "Notre liste"
-  weight = 10
-
-[[menu.footer]]
-  url = "/programme"
-  name = "Notre programme"
-  weight = 20
-
-[[menu.footer]]
   url = "/"
   name = "Accueil"
   weight = 30
+
+[[menu.footer]]
+  url = "/blog"
+  name = "Informations"
+  weight = 40
+
+[[menu.footer]]
+  url = "/member"
+  name = "Equipe"
+  weight = 45
 
 [[menu.copyright_footer]]
   url = "/about"
