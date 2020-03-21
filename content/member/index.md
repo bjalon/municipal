@@ -2,7 +2,7 @@
 fragment = "content"
 weight = 100
 
-title = "Equipe municipale"
+title = "Equipe"
 background = "light"
 +++
 

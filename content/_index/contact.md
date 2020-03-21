@@ -7,7 +7,7 @@ weight = 1100
 form_name = "defaultContact"
 
 title = "Contactez-nous"
-subtitle  = "Nous sommes à votre écoute"
+subtitle  = "Nous sommes à votre écoute ([nos coordonnées sont aussi disponibles ici](/member))"
 
 post_url = "https://formspree.io/mlenlwrw" #default: formspree.io
 email = "bjalon@qastia.com"

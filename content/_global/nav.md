@@ -7,6 +7,6 @@ weight = 0
 
 # Branding options
 [asset]
-  image = "logo2.jpg"
+  image = "logo.png"
   text = "Syna"
 +++
