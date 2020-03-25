@@ -12,7 +12,7 @@ display_date = true
 date = "2020-03-16"
 
 summary = """
-Nos épiceries (EpiService, Casino), notre traiteur Aubin, notre boucher, nos boulangers et l’Intermarché d’Yzeures sont ouverts et bien approvisionnés et prêts à vous accueillir pour vos achats quotidiens.
+Nos épiceries (EpiService, Casino), notre traiteur Aubin, notre boucher, nos boulangers et l’Intermarché d’Yzeures sont ouverts et bien approvisionnés et prêts à vous accueillir pour vos achats hebdomadaires.
 """
     
 [sidebar]

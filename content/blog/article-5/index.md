@@ -4,7 +4,7 @@ weight = 100
 #background = ""
 categories = ["coronavirus"]
 
-title = "Infos du jour"
+title = "Infos du jour - 19/03/2020"
 #subtitle = ""
 title_align = "left"
 
