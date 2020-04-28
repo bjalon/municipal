@@ -7,22 +7,20 @@ weight = 100
 background = "light"
 +++
 
-Bienvenue sur le site de Preuilly sur Claise consacré à la crise sanitaire.
+Bienvenue sur le site de la gazette de Preuilly sur Claise.
 
-Dans le contexte actuel, notre équipe a choisi de proposer ce site simple et efficace pour diffuser les informations nécessaires.
+Dans le contexte actuel, notre équipe a choisi de proposer ce site simple et efficace pour diffuser les informations locales à notre village.
 
-N’hésitez pas à nous contacter avec le formulaire ci-dessous.
+N’hésitez pas à nous contacter avec le formulaire ci-dessous si vous avez des informations à transmettre ou besoin d'aide.
 
-Dans les circonstances complexes auxquelles nous devons faire face, notre équipe veille à la sécurité de tous en informant et en prenant les dispositions nécessaires pour aider et protéger. 
+Dans les circonstances complexes actuelles, nous espérons que ce site vous sera utile. 
 
 La solidarité entre nous est essentielle en ce moment !
 
-Jean-Paul Charrier
-
 <br>
 <br>
 <br>
-<button type="button" class="btn btn-danger" onclick="location.href = '/blog'">INFORMATIONS CRISE SANITAIRE</button>
+<button type="button" class="btn btn-danger" onclick="location.href = '/blog'">Liste des informations...</button>
 <br>
 <br>
 <button type="button" class="btn btn-danger" onclick="location.href = '/member'">Une équipe à votre écoute...</button>
@@ -32,22 +30,22 @@ Jean-Paul Charrier
 <br>
 
 
-# Dernières nouvelles
 
-* Mise en place de [la page de la mairie sur Facebook](https://www.facebook.com/mairiepreuillysurclaise/). Maintenant les publications auront lieu sur cette page. N'hésitez pas à vous abonner à cette page qui va devenir bientôt la page officielle de la mairie
-* Nous avons mis en place un site dédié aux informations sur la crise pour la commune : En effet, nous avons travaillé ces derniers jours sur la mise en oeuvre de ce site : www.preuilly.net. Vous retrouverez les mêmes informations que cette page, mais il ne sera pas nécessaire d'avoir un compte Facebook pour y avoir accès. Le site www.preuillysurclaise.fr est toujours actif en attendant la fin de la période de transition avec l'ancienne équipe municipale.
-* Hier, les CESU aide de vie avaient lancé un appel à l'aide pour avoir des masques ce qui a été rapidement trouvé grâce à Raphaële. Merci à elle. Si vous avez des problèmes de ce type, n'hésitez pas à nous le faire savoir. Nous nous occuperons de diffuser cette information le plus largement possible et trouver des solutions avec vous. Nous avons la chance d'avoir une forte solidarité dans notre village...
-* Pour les indépendants et les professions libérales ayant une baisse d'activité suite à notre crise, pensez à vous rapprocher rapidement de votre comptable si vous en avez car vous avez droit à une aide de l'état. Les démarches se font par le site des impôts (impots.gouv.fr). ATTENTION, CELA DOIT ÊTRE FAIT APRES LE 31/03 ! - Merci à Christelle pour ces informations.
-
-Pendant toute cette période de crise nous sommes à votre écoute et vous retrouverez les coordonnées de notre équipe à l'adresse suivante : www.preuilly.net/member. N'hésitez pas à transmettre nos coordonnées, nous sommes là pour vous.
-
-<button type="button" class="btn btn-danger" onclick="location.href = '/blog'">En savoir plus...</button>
-
-<br>
-<br>
 
 ## Ouverts durant la crise
 <br>
+
+## Commerces qui livrent
+
+Pour les tous les commerces suivants, il suffit d'appeler sauf pour l'EpiService et le Jardin Vergers qui proposent un site internet pour enregistrer vos commande.
+
+* La clef des champs - Fleuriste - <a href='tel:0247946391'>0247946391</a>
+* Les Jardins Vergers : <a href="mailto:jardin.verger37@gmail.com">jardin.verger37@gmail.com</a>
+* Alimentation générale et livraison EpiService (Karim) - <a href='tel:0247945172'>0247945172</a> / <a href="http://episervice-karim.clicdrive.fr/default.php">site</a>"
+* Casino - Alimentation générale - <a href='tel:0247945037'>0247945037</a>
+* Dépôt de pain Maison Lauris -  <a href='tel:0247192574'>0247192574</a> - Ouvert du mardi au dimanche 7h30 - 12h30
+* Charcutier traiteur Aubin - <a href='tel:0247949263'>0247949263</a> - tous les jours de 7h30 à 13h 
+* Copra Pinkosz - Electroménager, Télévision - Permanence pour dépannage - <a href='tel:0247946119'>0247946119</a>
 
 ### Services publics et Santé
 
@@ -66,6 +64,7 @@ Pendant toute cette période de crise nous sommes à votre écoute et vous retro
 
 ### Alimentation
 
+* Les Jardins Vergers : <a href="mailto:jardin.verger37@gmail.com">jardin.verger37@gmail.com</a>
 * Alimentation générale et livraison EpiService (Karim) - <a href='tel:0247945172'>0247945172</a>
     * du lundi au samedi : 7h30-12h30 et 14h30-20h00
     * dimanche : 7h30-13h00
@@ -81,8 +80,9 @@ Pendant toute cette période de crise nous sommes à votre écoute et vous retro
 <br>
 <br>
 
-### Service 
+### Autres 
 
+* La clef des champs - Fleuriste - <a href='tel:0247946391'>0247946391</a>
 * Copra Pinkosz - Electroménager, Télévision - Permanence pour dépannage - <a href='tel:0247946119'>0247946119</a>
 * Gagage Renault Pompeigne - Permanence pour dépannage - <a href='tel:0247945043'>0247945043</a>
 * Bertucelli - Plomberie - Permanence pour dépannage - <a href='tel:0247945058'>0247945058</a>
@@ -100,7 +100,6 @@ Pendant toute cette période de crise nous sommes à votre écoute et vous retro
     * L'espérance - Restaurant - <a href='tel:0247948982'>0247948982</a>
 * Quotidien
     * Tous les salons de coiffure sont fermés
-    * La clef des champs - Fleuriste - <a href='tel:0247946391'>0247946391</a>
     * Dominique Teyrat - Chocolaterie, confisserie - <a href='tel:0247945296'>0247945296</a>
     * Patricia Martin - Couturière - <a href='tel:0247944010'>0247944010</a>
 * Artisans
