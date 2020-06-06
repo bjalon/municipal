@@ -1,8 +1,8 @@
 +++
 title = "Charlotte Bottemine"
-weight = 120
+weight = 100
 
-position = "Cellule d'écoute"
+position = "Conseillère municipale"
 scope = [
   "Tel : <a href='tel:0786392319‬'>0786392319‬</a>"
 ]

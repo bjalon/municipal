@@ -1,10 +1,11 @@
 +++
 fragment = "member"
-#disabled = false
+disabled = true
 date = "2020-05-25"
-weight = 100
-# background = "secondary"
+weight = 200
+background = "secondary"
 
-title = "Conseil municipal"
+title = "Employés communaux"
 #title_align = "left" # Default is center, can be left, right or center
 +++
+

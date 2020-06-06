@@ -1,8 +1,8 @@
 +++
 title = "Valérie Chevry"
-weight = 15
+weight = 100
 
-position = "Cellule d'écoute"
+position = "Conseillère municipale"
 scope = [
   "Tel : <a href='tel:06 74 10 59 26‬'>06 74 10 59 26‬</a>"
 ]

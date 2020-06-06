@@ -1,8 +1,8 @@
 +++
 title = "Charlène Venot"
-weight = 30
+weight = 100
 
-position = "Gestion de proximité"
+position = "Conseillère municipale"
 scope = [
   "Tel : <a href='tel:06 71 37 29 40‬‬'>06 71 37 29 40‬‬</a>"
 ]
