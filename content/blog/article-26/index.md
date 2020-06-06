@@ -24,11 +24,11 @@ date = "2020-05-07"
   
 +++
 
-Si notre premier ministre le confirme demain, la vie va commencer à reprendre son cours à partir de lundi et nos commerçants préparent cela pour que cela se passe dans les meilleurs conditions.
+Si notre premier ministre le confirme aujourd'hui, la vie va commencer à reprendre son cours à partir de lundi et nos commerçants se préparent pour que cela se passe dans les meilleurs conditions.
 
 Regard Opticiens ne déroge pas à la règle et sera prêt à vous accueillir masqué.
 
-Dans un premier temps seul deux clients ne pourront entrer dans le magasin pour respecter les gestes barrière. C'est pourquoi il est conseillé de prendre rendez-vous.
+Dans un premier temps, seulement deux clients pourront entrer dans le magasin pour respecter les gestes barrière. C'est pourquoi il est conseillé de prendre rendez-vous.
 
 Regard Opticiens vous propose trois possibilités pour prendre rendez-vous :
 

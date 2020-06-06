@@ -1,11 +1,11 @@
 +++
 fragment = "content"
-weight = 100
+weight = 1000   
 #background = ""
-categories = ["assistante maternelle"]
+categories = ["offre de service"]
 
-title = "2 places pour vos enfants de 0 à 3 ans"
-#subtitle = ""
+title = "Assitante maternelle"
+subtitle = "2 places pour vos enfants de 0 à 3 ans"
 title_align = "left"
 
 [sidebar]

@@ -30,11 +30,6 @@ La solidarité entre nous est essentielle en ce moment !
 <br>
 
 
-
-
-## Ouverts durant la crise
-<br>
-
 ## Commerces qui livrent
 
 Pour les tous les commerces suivants, il suffit d'appeler sauf pour l'EpiService et le Jardin Vergers qui proposent un site internet pour enregistrer vos commande.
@@ -60,6 +55,8 @@ Pour les tous les commerces suivants, il suffit d'appeler sauf pour l'EpiService
 * Ecole publique - <a href='tel:0247945144'>0247945144</a> - <a href="mailto:ec-preuilly-sur-claise@ac-orleans-tours.fr">ec-preuilly-sur-claise@ac-orleans-tours.fr</a>
 * Collège publique (site Gaston Defferre) - <a href='tel:0247945113'>0247945113</a>
 * Collège Notre-Dame - <a href='tel:0979267554'>0979267554</a>
+* La banque postale - <a href='tel:0247914603'>0247914603</a>
+* Regard optique - <a href='tel:0247946206'>0247946206</a>
 
 
 ### Alimentation
@@ -77,60 +74,78 @@ Pour les tous les commerces suivants, il suffit d'appeler sauf pour l'EpiService
 * Boucherie Boutault - <a href='tel:0247945063'>0247945063</a> - Ouvert 8h00 à 13h00 - Fermé le lundi
 * Roulotte napolitaine (le samedi soir) - <a href='tel:0664941796'>0664941796</a>
 
-<br>
-<br>
+### Coiffure
 
-### Autres 
+* Zen Coiffure
+    * Adresse : <a href="https://www.google.com/maps/place/3+Rue+Chaumont+Patin,+37290+Preuilly-sur-Claise/@46.8548234,0.9271482,17z/data=!3m1!4b1!4m5!3m4!1s0x47fcf506c61aa06d:0xc73d99176fc1359c!8m2!3d46.8548234!4d0.9293369">3 rue Chaumont Patin</a>
+    * Tel : <a href="tel://02 47 94 57 60">02 47 94 57 60</a> 
+    * <a href="https://www.facebook.com/pages/category/Hair-Salon/Zen-coiffure-406458249496527/">Facebook</a>
+* Chris'Style
+    * Adresse : <a href="https://www.google.com/maps/place/4+Avenue+Léon+Berthier,+37290+Preuilly-sur-Claise/@46.8512996,0.9273933,17z/data=!3m1!4b1!4m5!3m4!1s0x47fcf506170f9e55:0xbbeebe05677c37d0!8m2!3d46.8512996!4d0.929582">4 avenue Leon Berthier</a>
+    * Tel : <a href="tel://02 47 94 40 67">02 47 94 40 67</a> 
+* Marie-Noëlle Souchet
+    * Adresse : <a href="">29 place des Halles</a>
+    * Tel : <a href="tel://02 47 94 51 06">02 47 94 51 06</a> 
+* Ghislaine Villeret (Coiffure à domicile)
+    * Tel : <a href="tel://02 47 94 43 26">02 47 94 43 26</a> 
 
-* La clef des champs - Fleuriste - <a href='tel:0247946391'>0247946391</a>
+### Restaurant
+
+* La Claise - Restaurant - <a href='tel:0247920850'>0247920850</a> 
+* L'espérance - Restaurant - <a href='tel:0247948982'>0247948982</a>
+
+### Quotidien
+
+* Dominique Teyrat - Chocolaterie, confisserie - <a href='tel:0247945296'>0247945296</a>
+* Patricia Martin - Couturière - <a href='tel:0247944010'>0247944010</a>
+
+### Artisans
+
+* Jean-François Veron - Charpente, Couverture, Zinguerie - <a href='tel:0247942453'>0247942453</a> 
+* Pierre-Antoine Chaboisson - Ravalement, Peinture, Isolation façade - <a href='tel:0681740272'>0681740272</a>
+* Thierry Grall - Ferronnerie d'art, Métallerie - <a href='tel:0630106822'>0630106822</a>
+* SARL Lefevre & Moreau - Peinture - <a href='tel:0247946315'>0247946315</a>
+* Charly Motte - Menuiserie - <a href='tel:0247946755'>0247946755</a>
+* Jerome Besson - Peintre, décorateur - <a href='tel:0247948982'>0247948982</a>
+* Maçonnerie Blaszyk - <a href='tel:0247945160'>0247945160</a>
+* Giraud - Géomètre expert - <a href='tel:0247920828'>0247920828</a>
+* MGA Peinture - <a href='tel:0247944794'>0247944794</a>
+
+### Immobilier
+
+* La Roche Immo - <a href='tel:0247945280'>0247945280</a>
+* Transaxia - <a href='tel:0214000703'>0214000703</a>
+
+### Banque & assurances
+
+* Crédit agricole - <a href='tel:0247195066'>0247195066</a> - distributeur ouvert
+* Groupama - <a href='tel:0820202275'>0820202275</a>
+
+### Santé
+
+* Dentiste - [voir article à ce sujet](/blog/article-4/)
+* Valérie Chevry - Cabinet orthophoniste - <a href='tel:0247944035'>0247944035</a>
+
+### Autres
+
+* Atelier récup - <a href='tel:0632551283'>0632551283</a>s
+* Auto-Controle - <a href='tel:0247947401'>0247947401</a>
+* DTM - Loisirs créatifs, Travaux manuels - <a href='tel:0247946060'>0247946060</a>
+* Cabinet In futurum Expertise Comptable - <a href='tel:0247594070'>0247594070</a>
+* Centre de gestion et de comptabilité - <a href='tel:0247947890'>0247947890</a>
+
 * Copra Pinkosz - Electroménager, Télévision - Permanence pour dépannage - <a href='tel:0247946119'>0247946119</a>
 * Gagage Renault Pompeigne - Permanence pour dépannage - <a href='tel:0247945043'>0247945043</a>
 * Bertucelli - Plomberie - Permanence pour dépannage - <a href='tel:0247945058'>0247945058</a>
 * ADMR - Livraison, aide à la toilette (pas de ménage pendant la crise) - <a href='tel:0247943155'>0247943155</a>
 * Miguel Chartier - Electricité - <a href='tel:0247944561'>0247944561</a>
-<br>
-<br>
-<br>
-<br>
+* Notaire Maitre Roblin-Laubertie - <a href='tel:0247945767'>0247945767</a> 
+* Qastia Coworking - <a href='tel:0787371124'>0787371124</a>
 
-## Commerces fermés
-
-* Restaurant
-    * La Claise - Restaurant - <a href='tel:0247920850'>0247920850</a> 
-    * L'espérance - Restaurant - <a href='tel:0247948982'>0247948982</a>
-* Quotidien
-    * Tous les salons de coiffure sont fermés
-    * Dominique Teyrat - Chocolaterie, confisserie - <a href='tel:0247945296'>0247945296</a>
-    * Patricia Martin - Couturière - <a href='tel:0247944010'>0247944010</a>
-* Artisans
-    * Jean-François Veron - Charpente, Couverture, Zinguerie - <a href='tel:0247942453'>0247942453</a> 
-    * Pierre-Antoine Chaboisson - Ravalement, Peinture, Isolation façade - <a href='tel:0681740272'>0681740272</a>
-    * Thierry Grall - Ferronnerie d'art, Métallerie - <a href='tel:0630106822'>0630106822</a>
-    * SARL Lefevre & Moreau - Peinture - <a href='tel:0247946315'>0247946315</a>
-    * Charly Motte - Menuiserie - <a href='tel:0247946755'>0247946755</a>
-    * Jerome Besson - Peintre, décorateur - <a href='tel:0247948982'>0247948982</a>
-    * Maçonnerie Blaszyk - <a href='tel:0247945160'>0247945160</a>
-    * Giraud - Géomètre expert - <a href='tel:0247920828'>0247920828</a>
-    * MGA Peinture - <a href='tel:0247944794'>0247944794</a>
-* Immobilier
-    * La Roche Immo - <a href='tel:0247945280'>0247945280</a>
-    * Transaxia - <a href='tel:0214000703'>0214000703</a>
-* Banque & assurances
-    * Crédit agricole - <a href='tel:0247195066'>0247195066</a> - distributeur ouvert
-    * Groupama - <a href='tel:0820202275'>0820202275</a>
-    * La banque postale - <a href='tel:0247914603'>0247914603</a>
-* Santé
-    * Dentiste - [voir article à ce sujet](/blog/article-4/)
-    * Valérie Chevry - Cabinet otrhophoniste - <a href='tel:0247944035'>0247944035</a>
-    * Regard optique - <a href='tel:0247946206'>0247946206</a>
-* Autres
-    * Atelier récup - <a href='tel:0632551283'>0632551283</a>s
-    * Auto-Controle - <a href='tel:0247947401'>0247947401</a>
-    * DTM - Loisirs créatifs, Travaux manuels - <a href='tel:0247946060'>0247946060</a>
-    * Cabinet In futurum Expertise Comptable - <a href='tel:0247594070'>0247594070</a>
-    * Centre de gestion et de comptabilité - <a href='tel:0247947890'>0247947890</a>
-    * Notaire Maitre Roblin-Laubertie - <a href='tel:0247945767'>0247945767</a> 
-    * Qastia Coworking - <a href='tel:0787371124'>0787371124</a>
+<br>
+<br>
+<br>
+<br>
 
 
 

@@ -74,24 +74,24 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 20
 
 [[menu.main]]
-  url = "/offre-service"
-  name = "Offres de service"
-  weight = 20
+  url = "/service"
+  name = "Services"
+  weight = 40
 
 [[menu.main]]
   url = "/member"
-  name = "Notre équipe"
-  weight = 25
+  name = "L'équipe municipale"
+  weight = 50
 
 [[menu.main]]
   url = "#contact"
   name = "Contact"
-  weight = 50
+  weight = 60
 
 [[menu.main]]
   url = "/search"
   name = "Rechercher"
-  weight = 60
+  weight = 70
   pre = "fab fa-github fa-stack-2x"
 
 
