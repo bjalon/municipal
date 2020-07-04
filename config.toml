@@ -88,13 +88,6 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Contact"
   weight = 60
 
-[[menu.main]]
-  url = "/search"
-  name = "Rechercher"
-  weight = 70
-  pre = "fab fa-github fa-stack-2x"
-
-
 [[menu.footer]]
   url = "/"
   name = "Accueil"

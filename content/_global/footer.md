@@ -14,6 +14,6 @@ weight = 1200
 #   url = "#"
 +++
 
-<img height="60px" src="/images/logo.svg"/>
+<img height="120px" src="/images/logo.png"/>
 
-## Vaincre ensemble !
+## Ensemble pour Preuilly !
