@@ -2,7 +2,7 @@
 fragment = "content"
 weight = 100
 #background = ""
-categories = ["commerce"]
+categories = ["municipalité"]
 
 title = "Election du maire"
 #subtitle = ""
@@ -13,7 +13,7 @@ Nous sommes heureux de vous annoncer que l'élection du maire a eu lieu.
 """
 
 display_date = true
-date = "2020-05-11"
+date = "2020-05-28"
 
     
 [sidebar]

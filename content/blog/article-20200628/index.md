@@ -28,6 +28,6 @@ L'adresse : 12 Bis, Rue de la Berruère 37290 Preuilly-sur-Claise
 
 Vous retrouverez beaucoup d'objets : Bibelots, vinyles, livres, ...
 
-Pensez à prendre des masques et du gel hydro-alcoolique, du fait du passage nous devrons tous être vigilant.
+Pensez à prendre des masques et du gel hydro-alcoolique. Le risque que nous soyons nombreux nécessitera que nous soyons tous vigilants.
 
 

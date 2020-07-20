@@ -12,10 +12,10 @@ sur Claise, parce que je connaissais ce village depuis l'enfance.
 
 J'ai un souvenir heureux et dynamique de ce village. Et par dessus tout, j'aime son charme et son architecture.
 
-Depuis bientôt 10 ans que je vis à Preuilly sur Claise, même si j'aime appeler Preuilly sur Claise notre village, 
+Depuis bientôt 10 ans que je vis à Preuilly-sur-Claise, même si j'aime appeler Preuilly-sur-Claise notre village, 
 je constate que nous avons la chance de tout avoir sur place, les commerces, les écoles (même un collège), 
 les associations, les clubs sportifs, une pharmacie, un cabinet d'infirmière, un dentiste, etc... Aujourd'hui nous 
-devons dynamiser Preuilly sur Claise, mettre en valeur ce que nous avons, et donner à d'autres l'envie de venir vivre 
+devons dynamiser Preuilly-sur-Claise, mettre en valeur ce que nous avons, et donner à d'autres l'envie de venir vivre 
 dans notre village.
 
 Ce que je souhaite aujourd'hui, c'est aider notre équipe à mettre en place les actions pour atteindre ces objectifs.

@@ -7,7 +7,7 @@ weight = 100
 
 <img src="photo.jpg" alt="" class="img-fluid rounded-circle border text-white">
 
-Ayant eu un réel coup de coeur pour le charme architectural de Preuilly sur Claise, j'ai choisi de m'y installer afin d'y construire ma vie de famille.
+Ayant eu un réel coup de coeur pour le charme architectural de Preuilly-sur-Claise, j'ai choisi de m'y installer afin d'y construire ma vie de famille.
 
 Éducatrice spécialisée et maman d'une petite fille, je suis particulièrement sensible à la question écologique et à l'échange intergénérationnel.
 

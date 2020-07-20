@@ -24,5 +24,5 @@ Hier après-midi, une canalisation d'eau a explosé rue Edmont Grasset à Preuil
 
 Veolia est intervenue hier soir pour stopper l'arrivée d'eau et réparer cette canalisation. Les travaux se sont terminés vers 23h15.
 
-A noter qu'aucune interruption d'eau n'a eu lieu dans les foyers étant donné qu'il s'agissait d'une canalisation qui alimente le château d'eau.s
+A noter qu'aucune interruption d'eau n'a eu lieu dans les foyers : il s'agissait d'une canalisation qui alimente le château d'eau qui lui était plein.
 

@@ -7,7 +7,7 @@ weight = 100
 
 <img src="photo.jpg" alt="" class="img-fluid rounded-circle border text-white">
 
-33 ans ėleveuse de chèvres et de brebis, j'ai vécu et grandi à Preuilly sur claise.
+33 ans ėleveuse de chèvres et de brebis, j'ai vécu et grandi à Preuilly-sur-Claise.
 
 Je suis partie pour mes études et j'ai vécu à l'étranger quelques années. De retour en France, m'installer sur la commune pour reprendre l'exploitation familiale fût pour moi et mon mari une évidence.
 

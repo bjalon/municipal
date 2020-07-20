@@ -39,7 +39,7 @@ Il reste possible de se déplacer dans la rue sans masque pour faire, par exempl
 
 En parlant des masques :
 
-* La distribution de masque sur la commune est maintenant terminée et tous les habitants de Preuilly sur Claise devraient avoir leur masques. Si tel n'est pas le cas, faites-le nous savoir rapidement.
+* La distribution de masque sur la commune est maintenant terminée et tous les habitants de Preuilly-sur-Claise devraient avoir leur masques. Si tel n'est pas le cas, faites-le nous savoir rapidement.
 * Je n'ai pas vérifié l'information, mais j'ai entendu que beaucoup de nos communes voisines ont également distribuées des masques,
 * A noter que notre libraire vend des masques. 
 * Enfin, si vous avez des difficultés pour obtenir des masques, faites-le nous savoir : nous pouvons essayer de trouver une solution avec vous.
