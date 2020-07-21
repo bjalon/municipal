@@ -46,5 +46,5 @@ button = "Envoyer" # defaults to theme default
 
 [[fields.hidden]]
   name = "_next"
-  value = "http://www.preuillysurclaise.fr/merci"
+  value = "http://www.preuilly.net/merci"
 +++
