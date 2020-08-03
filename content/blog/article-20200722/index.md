@@ -4,7 +4,7 @@ weight = 100
 #background = ""
 categories = ["municipalite"]
 
-title = "Le conseil municipal ouvert au public : 23/07/2020 à 18h30"
+title = "Erratum : Le conseil municipal sera à huis clos"
 #subtitle = "Au programme : découvertes, tailler des silex, escape games, piscine, lectures, et d'autres choses encore... "
 title_align = "left"
 
@@ -20,13 +20,7 @@ date = "2020-07-22"
   
 +++
 
-Le conseil municipal aura lieu demain jeudi 23 juillet à la salle des fêtes. 
-
-Ce conseil est ouvert au public mais les règles sanitaires devront être strictement appliquées :
-
-* Masque obligatoire,
-* Distance d’au moins un mètre autour de chaque personne dans toutes les directions,
-* Lavage des mains avant d'entrer dans la salle.
+Le conseil municipal aura lieu demain jeudi 23 juillet à la salle des fêtes à huis clos. 
 
 A l'ordre du jour :
 

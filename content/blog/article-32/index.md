@@ -9,7 +9,7 @@ title = "Reste 2 postes ouverts à l'Entraide"
 title_align = "left"
 
 display_date = true
-date = "2020-06-22"
+date = "2020-07-22"
 
     
 [sidebar]

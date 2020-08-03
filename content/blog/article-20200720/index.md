@@ -11,6 +11,11 @@ title_align = "left"
 display_date = true
 date = "2020-07-20"
 
+aliases = [
+    "/blog/article-202007282",
+    "/blog/article-20200728"
+]
+
     
 [sidebar]
   align = "right"
