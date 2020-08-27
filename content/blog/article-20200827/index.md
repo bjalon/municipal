@@ -2,14 +2,14 @@
 fragment = "content"
 weight = 100
 #background = ""
-categories = ["tourisme"]
+categories = ["association"]
 
 title = "Une visite de l'accélérateur de particules du CERN et de nouvelles conférences-débats à Preuilly sur Claise ?"
 #subtitle = "Au programme : découvertes, tailler des silex, escape games, piscine, lectures, et d'autres choses encore... "
 title_align = "left"
 
 display_date = true
-date = "2020-08-03"
+date = "2020-08-27"
     
 [sidebar]
   align = "right"
