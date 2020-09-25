@@ -69,23 +69,28 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 10
 
 [[menu.main]]
-  url = "/blog"
-  name = "Informations"
+  url = "/vie-locale"
+  name = "Vie locale"
   weight = 20
 
 [[menu.main]]
-  url = "/service"
-  name = "Services"
-  weight = 40
+  url = "/municipalite"
+  name = "Municipalité"
+  weight = 30
 
 [[menu.main]]
   url = "/member"
-  name = "L'équipe municipale"
-  weight = 50
+  name = "Municipalité"
+  weight = 60
 
 [[menu.main]]
   url = "#contact"
   name = "Contact"
+  weight = 60
+
+[[menu.main]]
+  url = "http://www.preuillysurclaise.fr/"
+  name = "Tout preuilly"
   weight = 60
 
 [[menu.footer]]
